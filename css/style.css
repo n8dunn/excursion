@@ -2,4 +2,14 @@
 
 body {
   font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 160%;
+}
+
+a {
+  color: #7FFFD4;
 }
